@@ -13,3 +13,7 @@ A template for making a symfony development app with database and phpmyadmin
 5. Run composer create-project symfony/website-skeleton
 
 6. If reaching a 404 check that the DocumentRoot under docker\server\apache\sites-enabled\site.conf is correct.
+
+### FROM
+
+https://www.bornfight.com/blog/blog-lamp-docker-setup-with-php-8-and-mariadb-for-symfony-projects/
